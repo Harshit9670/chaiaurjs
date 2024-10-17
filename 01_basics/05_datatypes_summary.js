@@ -47,6 +47,21 @@
    
 
    console.log(typeof bigNumber);
+
+
+
+   // *********************************************
+
+   //MEMORY
+   //In primitive data types stack memory are used while in non primitive heap memory are used
+
+   let myYoutubename="harshittiwaridotcom"
+   let anothername=myYoutubename
+   anothername="chaiaurcode"
+   console.log(anothername);
+   console.log(myYoutubename);
+   
+   
    
    
    
